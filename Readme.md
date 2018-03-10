@@ -1,4 +1,4 @@
-# Node Api App for orders and products Crud Operations mostly.
+# Node Api App for orders and products, Crud Operations mostly.
 
 ## Modules used
 
