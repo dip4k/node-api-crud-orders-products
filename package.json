@@ -1,0 +1,18 @@
+{
+  "name": "node-api-crud-orders-products",
+  "version": "1.0.0",
+  "description": "Node Api App for orders and products",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
